@@ -5,7 +5,9 @@ Python版本为2.7、3.4、3.5、3.6或3.7。
 ```
 yum install librdkafka-devel python-devel
 ```
+2. 拷贝krb5.conf文件
 
+将krb5文件拷贝到/etc/ 目录下
 ## 安装Python依赖库
 执行以下命令安装Python依赖库。  
 ```
